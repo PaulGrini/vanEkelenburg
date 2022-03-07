@@ -1,0 +1,10 @@
+Cross   Mat     Pat     MatMult Replicate
+pos.EE1 Col0    Tsu1    1       EE1pos.tsv
+pos.EE1 Col0    Tsu1    1       EE3pos.tsv
+pos.EE1 Col0    Tsu1    1       EE4pos.tsv
+pos.ESR Col0    Tsu1    1       ESR2pos.tsv
+pos.ESR Col0    Tsu1    1       ESR3pos.tsv
+pos.ESR Col0    Tsu1    1       ESR4pos.tsv
+pos.TE1 Col0    Tsu1    1       TE1-2pos.tsv
+pos.TE1 Col0    Tsu1    1       TE1-3pos.tsv
+pos.TE1 Col0    Tsu1    1       TE1-4pos.tsv

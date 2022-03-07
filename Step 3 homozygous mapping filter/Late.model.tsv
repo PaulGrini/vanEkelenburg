@@ -1,0 +1,13 @@
+FilterSample    FilterRep       FilterParent    Library SeqDate Parent  Stage   RepName SeqName CountsFilename
+1       1       Col0    7       20190705        Col-0   Late    BR1     07-Col-0-Late-BR1_.20190705     07-Col-0-Late-BR1_.20190705.DifferentialMapping.out.tsv
+1       1       Col0    7       20190914        Col-0   Late    BR1     07-Col-0-Late-BR1_.20190914     07-Col-0-Late-BR1_.20190914.DifferentialMapping.out.tsv
+1       2       Col0    8       20190705        Col-0   Late    BR2     08-Col-0-Late-BR2_.20190705     08-Col-0-Late-BR2_.20190705.DifferentialMapping.out.tsv
+1       2       Col0    8       20190914        Col-0   Late    BR2     08-Col-0-Late-BR2_.20190914     08-Col-0-Late-BR2_.20190914.DifferentialMapping.out.tsv
+1       3       Col0    9       20190705        Col-0   Late    BR3     09-Col-0-Late-BR3_.20190705     09-Col-0-Late-BR3_.20190705.DifferentialMapping.out.tsv
+1       3       Col0    9       20190914        Col-0   Late    BR3     09-Col-0-Late-BR3_.20190914     09-Col-0-Late-BR3_.20190914.DifferentialMapping.out.tsv
+1       4       Tsu1    10      20190705        Tsu-1   Late    BR1     10-Tsu-1-Late-BR1_.20190705     10-Tsu-1-Late-BR1_.20190705.DifferentialMapping.out.tsv
+1       4       Tsu1    10      20190914        Tsu-1   Late    BR1     10-Tsu-1-Late-BR1_.20190914     10-Tsu-1-Late-BR1_.20190914.DifferentialMapping.out.tsv
+1       5       Tsu1    11      20190705        Tsu-1   Late    BR2     11-Tsu-1-Late-BR2_.20190705     11-Tsu-1-Late-BR2_.20190705.DifferentialMapping.out.tsv
+1       5       Tsu1    11      20190914        Tsu-1   Late    BR2     11-Tsu-1-Late-BR2_.20190914     11-Tsu-1-Late-BR2_.20190914.DifferentialMapping.out.tsv
+1       6       Tsu1    12      20190705        Tsu-1   Late    BR3     12-Tsu-1-Late-BR3_.20190705     12-Tsu-1-Late-BR3_.20190705.DifferentialMapping.out.tsv
+1       6       Tsu1    12      20190914        Tsu-1   Late    BR3     12-Tsu-1-Late-BR3_.20190914     12-Tsu-1-Late-BR3_.20190914.DifferentialMapping.out.tsv

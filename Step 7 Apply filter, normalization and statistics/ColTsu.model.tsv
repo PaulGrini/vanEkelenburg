@@ -1,0 +1,10 @@
+Cross   Mat     Pat     MatMult Replicate       Norm
+pos.EE1 Col0    Tsu1    0.5     EE1pos.tsv      1.341033
+pos.EE1 Col0    Tsu1    0.5     EE3pos.tsv      0.780990
+pos.EE1 Col0    Tsu1    0.5     EE4pos.tsv      1.026821
+pos.ESR Col0    Tsu1    0.5     ESR2pos.tsv     0.951849
+pos.ESR Col0    Tsu1    0.5     ESR3pos.tsv     0.977524
+pos.ESR Col0    Tsu1    0.5     ESR4pos.tsv     1.079423
+pos.TE1 Col0    Tsu1    0.5     TE1-2pos.tsv    1.005221
+pos.TE1 Col0    Tsu1    0.5     TE1-3pos.tsv    1.463373
+pos.TE1 Col0    Tsu1    0.5     TE1-4pos.tsv    0.756521
