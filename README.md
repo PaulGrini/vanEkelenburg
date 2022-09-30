@@ -6,7 +6,7 @@ Yuri S. van Ekelenburg, Karina S. Hornslien, Tom Van Hautegem, Matyas Fendrych, 
 
 Biorxiv, doi: https://doi.org/10.1101/2022.01.29.478178
 
-Supplemental Data: SData 1-12
+Supplemental Data: SData 1-14
 
 An illustration of step 1 - step 7 can be found below
 
